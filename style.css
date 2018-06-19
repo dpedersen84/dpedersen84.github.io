@@ -1,0 +1,29 @@
+body {
+    
+    font-family: 'Abel', sans-serif !important;
+    color: black;
+}
+
+#top-banner {
+    background-image: url("../Assets/Images/5.jpeg");
+    background-size: cover;
+    /* background-color: orange; */
+}
+
+#contact {
+    color: deepskyblue;
+}
+
+.card-title {
+    color: white;
+}
+
+#viewGithub {
+    color: deepskyblue;
+    
+}
+
+.view-app {
+    color: red;
+}
+
