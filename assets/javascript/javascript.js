@@ -39,6 +39,11 @@ $(document).ready(function(){
       console.log("Hello");
       window.location.href = "https://tranquil-headland-65629.herokuapp.com/";
     });
+
+    $("#viewScraper").on("click", function (event) {
+      console.log("Hello");
+      window.location.href = "https://aqueous-peak-54190.herokuapp.com/";
+    });
     
   });
       
