@@ -8,7 +8,7 @@ class App extends Component {
       <div>
       <Navbar />
       <Jumbotron 
-        backgroundImage="https://i.imgur.com/g2EkSbL.jpg"/>
+        backgroundImage="https://i.imgur.com/Lx2Sm3S.jpg"/>
       </div>
     );
   }
