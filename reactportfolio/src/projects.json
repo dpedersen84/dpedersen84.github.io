@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "project": "Pic-Me",
+        "image": "",
+        "heroku": "",
+        "github": "https://github.com/dpedersen84/Pic-Me",
+        "description":"A time killing app where users can share images, add captions, and like others to compete on a global leader board."
+    },
+    {
+        "id": 2,
+        "project": "Mile$",
+        "image": "",
+        "heroku": "https://milesdriver-project2.herokuapp.com/",
+        "github": "https://github.com/dpedersen84/Miles",
+        "description":"An intuitive logging app for drivers to record their individual trips and collected tips."
+    },
+    {
+        "id": 3,
+        "project": "Click",
+        "image": "",
+        "heroku": "",
+        "github": "https://github.com/dpedersen84/click",
+        "description":"A Garbage Pail Kids themed memory game built with React.js."
+    },
+    {
+        "id": 4,
+        "project": "Peel",
+        "image": "",
+        "heroku": "",
+        "github": "https://github.com/dpedersen84/mongo_scrape",
+        "description":"A simple CRUD application letting users save scraped articles from The Onion Parody Newsletter. Users can save favorites and add notes to selected favorite article."
+    }
+]
