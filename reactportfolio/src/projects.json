@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Pic-Me",
-        "image": "http://www.placepuppy.net/400/250",
+        "image": "https://i.imgur.com/izwaDC2.jpg",
         "heroku": "",
         "github": "https://github.com/dpedersen84/Pic-Me",
         "description":"A time killing app where users can share images, add captions, and like others to compete on a global leader board."
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Mile$",
-        "image": "http://www.placepuppy.net/400/250",
+        "image": "https://i.imgur.com/BzIEg2r.jpg",
         "heroku": "https://milesdriver-project2.herokuapp.com/",
         "github": "https://github.com/dpedersen84/Miles",
         "description":"An intuitive logging app for drivers to record their individual trips and collected tips."
@@ -18,17 +18,9 @@
     {
         "id": 3,
         "name": "Click",
-        "image": "http://www.placepuppy.net/400/250",
+        "image": "https://i.imgur.com/oz5iia3.jpg",
         "heroku": "",
         "github": "https://github.com/dpedersen84/click",
         "description":"A Garbage Pail Kids themed memory game built with React.js."
-    },
-    {
-        "id": 4,
-        "name": "Peel",
-        "image": "http://www.placepuppy.net/400/250",
-        "heroku": "",
-        "github": "https://github.com/dpedersen84/mongo_scrape",
-        "description":"A simple CRUD application letting users save scraped articles from The Onion Parody Newsletter. Users can save favorites and add notes to selected favorite article."
     }
 ]

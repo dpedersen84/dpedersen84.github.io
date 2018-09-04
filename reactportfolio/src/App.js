@@ -4,7 +4,7 @@ import Jumbotron from "./components/Jumbotron";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import Social from "./components/Social";
+// import Social from "./components/Social";
 import Closer from "./components/Closer";
 import Footer from "./components/Footer";
 
@@ -18,7 +18,7 @@ class App extends Component {
         <About />
         <Projects />
         <Skills />
-        <Social />
+        {/* <Social /> */}
         <Closer />
         <Footer />
       </div>

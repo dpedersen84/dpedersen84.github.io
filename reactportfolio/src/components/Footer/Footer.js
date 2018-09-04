@@ -22,12 +22,11 @@ class Footer extends React.Component {
                         </div>
                     </div>
                 </div>
-                <div className="footer-copyright grey darken-3">
+                {/* <div className="footer-copyright grey darken-3">
                     <div className="container white-text">
                         © 2018 Copyright Dan Pedersen
-                        {/* <a className="black-text text-lighten-4 right" href="#!">More Links</a>  */}
                     </div>
-                </div>
+                </div> */}
             </footer>
         )
     }
