@@ -6,6 +6,12 @@ class Projects extends React.Component {
     state = {
         data,
     }
+
+    onClick = (appUrl) => {
+        console.log(appUrl)
+        
+    }
+
     render() {
         return(
             <div className="container">
@@ -18,7 +24,7 @@ class Projects extends React.Component {
                                     <div className="col s12 m4">
                                         <div className="card">
                                             <div className="card-image">
-                                                <img src={app.image} className="responsive-img" id={app.name}></img>
+                                                <img src={app.image} className="responsive-img" id={app.name} onClick={() => this.onClick(app.heroku)} href={app.heroku}></img>
                                                 <span class="card-title">{app.name}</span>
                                             </div>
                                         </div>

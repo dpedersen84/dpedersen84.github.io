@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Click",
         "image": "https://i.imgur.com/oz5iia3.jpg",
-        "heroku": "",
+        "heroku": "https://click-app-dp.herokuapp.com/",
         "github": "https://github.com/dpedersen84/click",
         "description":"A Garbage Pail Kids themed memory game built with React.js."
     }

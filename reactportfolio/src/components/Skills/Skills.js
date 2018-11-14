@@ -23,7 +23,8 @@ class Skills extends React.Component {
                                 <h4>Organization</h4>
                                 <h6>I use Trello to keep my projects on-track and set with goals in mind.</h6>
                                 <h4>Collaboration</h4>
-                                <h6>I work well with others and am able to adapt to wherever I am needed.</h6>
+                                <h6>I know when to ask for help and assist wherever I can.  Working well with others is an important
+                                    part of solving problems.</h6>
                             </div>
                         </div>    
                     </div>
