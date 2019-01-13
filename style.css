@@ -1,28 +1,30 @@
 body {
-    
-    font-family: 'Abel', sans-serif !important;
-    color: black;
+  font-family: "Abel", sans-serif !important;
+  color: black;
 }
 
 #top-banner {
-    background-image: url("../Assets/Images/5.jpeg");
-    background-size: cover;
-    /* background-color: orange; */
+  background-image: url("../Assets/Images/5.jpeg");
+  background-size: cover;
+  /* background-color: orange; */
 }
 
 #contact {
-    color: deepskyblue;
+  color: deepskyblue;
 }
 
 .card-title {
-    color: white;
+  color: white;
 }
 
 #viewGithub {
-    color: deepskyblue;
-    
+  color: deepskyblue;
 }
 
 .view-app {
-    color: red;
+  color: red;
 }
+
+/* #ezImage {
+  height: 500px;
+} */
